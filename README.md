@@ -4,6 +4,7 @@ https://github.com/gmh5225/static-build-qt6/releases/download/qt6_630_static/qt6
 
 https://github.com/build-cpp/cmkr
 
+https://github.com/build-cpp/Qt5CMakeTemplate
 
 ## Building
 
