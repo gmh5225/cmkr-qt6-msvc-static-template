@@ -1,7 +1,6 @@
 # cmkr-qt6-msvc-static-template
 
 
-...
 
 
 ## Building
