@@ -1,6 +1,6 @@
 # cmkr-qt6-msvc-static-template
 
-
+https://github.com/build-cpp/cmkr
 
 
 ## Building
