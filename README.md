@@ -2,6 +2,8 @@
 
 https://github.com/gmh5225/static-build-qt6/releases/download/qt6_630_static/qt6_630_static_64.zip
 
+https://github.com/build-cpp/cmkr
+
 
 ## Building
 
