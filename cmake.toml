@@ -5,7 +5,6 @@ cmkr-include = "cmake/cmkr.cmake"
 [project]
 name = "cmkr-qt6-msvc-static-template"
 version = "0.1.0"
-description = "cmkr-qt6-msvc-static-template"
 include-after = ["cmake/Qt5Helpers.cmake"]
 msvc-runtime = "static"
 
